@@ -1,0 +1,1 @@
+FROM docuseal/docuseal:latest
